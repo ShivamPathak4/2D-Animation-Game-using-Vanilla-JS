@@ -1,1 +1,1 @@
-# 2D-Animation-Game-using-Vanilla-JS
+# 2D-Animation-Game-using-Vanilla-JS![alt text](Game-1.png)
