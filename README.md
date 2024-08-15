@@ -1,6 +1,3 @@
-Here’s an updated `README.md` template for your game, incorporating your project details:
-
-
 # InfernoDog Dash Game
 
 Welcome to the **InfernoDog Dash Game** repository! This project is a 2D game developed using JavaScript, HTML5 Canvas, and other modern web technologies. The game features a fiery dog character that chases and burns enemies with unique behaviors, challenging the player to survive as long as possible.
